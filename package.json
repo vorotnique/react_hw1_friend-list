@@ -2,7 +2,7 @@
   "name": "friend-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vorotnique.github.io/react-gh-pages",
+  "homepage": "https://vorotnique.github.io/react_hw1_friend-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
